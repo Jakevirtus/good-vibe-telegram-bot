@@ -13,3 +13,5 @@ __pycache__/
 # Настройки PyCharm
 .idea/
 
+.coverage
+htmlcov/
