@@ -1,0 +1,15 @@
+# Секреты
+config.py
+.env
+
+# Виртуальное окружение
+.venv/
+venv/
+
+# Кэш Python
+__pycache__/
+*.pyc
+
+# Настройки PyCharm
+.idea/
+
